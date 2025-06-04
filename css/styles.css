@@ -1,0 +1,23 @@
+h1{
+    color: blue;
+    background-color: lime;
+    font-size: 30px;
+}
+h2{
+    color: green;
+}
+p{
+    color: rgb(66, 47, 47);
+    font-size: 16px;
+    font-weight: bold;
+}
+.pcolor{
+    color: rgb(7, 166, 103);
+}
+header{
+    background-color: rgb(136, 135, 143);
+}
+
+footer{
+    background-color: rgb(126, 122, 122);
+}
